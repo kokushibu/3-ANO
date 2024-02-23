@@ -1,15 +1,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Kode+Mono:wght@400..700&display=swap');
 
 :root{
---cor-fundo:rgba(58, 55, 94, 0.3);
 --branco:#FFFFFF;
+--cor-de-fundo:rgba(58, 55, 94, 0.3);
+--cor-rosa:#aa009c;
+--verde:#025c26;
 --verde-claro:#20F073;
+--verde-limao:#63d691;
 --botao-inativo:#5720f0;
 --botao-inativo:#5e20f0;
 --botao-ativo:#f02020;
 }
 body{
-    background-color: var(--cor-fundo);
+    background-color: var(--cor-de-fundo);
     color: var(--branco);
     font-family: 'chakra petch', 'sans-serif';
 }
