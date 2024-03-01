@@ -33,3 +33,9 @@ margin: 0 auto;
 .titulo-principal span{
     color: var(--verde-limao);
 }
+
+.botao{
+    font-family: 'chakra patch', 'sans-serif';
+    background-color: var(--botao-inativo);
+    color: var(--branco)
+}
