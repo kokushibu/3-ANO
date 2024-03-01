@@ -2,14 +2,14 @@
 
 :root{
 --branco:#FFFFFF;
---cor-de-fundo:rgba(58, 55, 94, 0.3);
+--cor-de-fundo:#00f7ff;
 --cor-rosa:#aa009c;
 --verde:#025c26;
 --verde-claro:#20F073;
 --verde-limao:#63d691;
---botao-inativo:#5720f0;
---botao-inativo:#5e20f0;
---botao-ativo:#f02020;
+--botao-inativo:rgba(118, 0, 253, 0.973);
+--botao-inativo:rgba(8, 74, 86, 0.5);
+--botao-ativo:rgba(17, 209, 243, 0.795);
 }
 body{
     background-color: var(--cor-de-fundo);
