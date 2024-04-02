@@ -61,6 +61,7 @@ margin: 0 auto;
 }
 .abas-textos{
     background-color: var(--cor-de-fundo);
+    color: #20F073;
     padding: 40px;
     border-radius: 0 0 40px 40px;
 }
